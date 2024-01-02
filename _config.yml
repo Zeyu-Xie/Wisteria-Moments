@@ -19,8 +19,10 @@ author:
 description: >
     Welcome to Wisteria Moments!  
 lang: en
-copyright: >
-    ©️ 2024 Acan. All rights reserved.
+copyright: 
+    label: ©️
+    identity: Acan
+    content: All rights reserved.
 
 # Theme-Specific Settings
 
