@@ -29,3 +29,7 @@ copyright:
 date_format: "%b %-d, %Y"
 
 show_excerpts: true
+
+customized_background: true
+
+customized_background_url: /assets/image/bg-Jinyehuang.svg
